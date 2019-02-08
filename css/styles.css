@@ -1,0 +1,66 @@
+body{
+  background-position: center;
+  background-size: cover;
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/GfRLKaE/abstract-gold-background-luxury-cloth-or-liquid-wave-or-wavy-folds-of-grunge-silk-texture-satin-material-or-gold-luxurious-christmas-background-or-elegant-wallpaper-design-yellow-background_njyy6rfq__S0000.jpg); width: 80px height:rgba(0, 0, 0, 0.5);
+  font-size: 1.2em;
+
+}
+nav>ul{
+  text-align: right;
+}
+ul li{
+  display: inline-block;
+}
+nav>ul>li>a{
+  font-family: fantasy;
+  color: black;
+  padding: 0.2em;
+  text-transform: uppercase;
+}
+nav{
+  display: inline-block;
+}
+
+nav>ul>li>a:hover{
+  color:salmon;
+  background-color:yellow;
+  border-radius: 0.3em;
+  padding:0.2em;
+}
+.video{
+  display: flex;
+  position: relative;
+  left: 10em;
+}
+
+.customer-reviews{
+  display:flex;
+  flex-direction: row;
+}
+
+.customer1{
+  margin-left:11em;
+  background-color: white;
+}
+
+.customer2{
+  padding: 0.5em;
+  padding-right: 0.8em;
+  background-color: white;
+}
+
+.customer3{
+  margin-right:4em;
+  background-color: white;
+}
+h1{
+  text-align: center;
+  background-color:yellow;
+}
+
+.intro{
+  text-align: center;
+  background-color: salmon;
+  font-family: fantasy;
+  padding:2em;
+}
